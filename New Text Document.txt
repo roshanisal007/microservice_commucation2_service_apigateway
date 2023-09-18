@@ -1,0 +1,14 @@
+
+user_service http://localhost:9001/user/1113
+
+contact_service 9002
+
+eserver http://localhost:8761/
+
+api-gatway http://localhost:8999/user/1111
+
+
+
+
+
+
